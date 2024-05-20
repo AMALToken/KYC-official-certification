@@ -1,1 +1,1 @@
-# KYC-official-certification
+AMAL is proud to attain the KYC certificate, which was achieved through the authentication of personal data of the AMAL team by SYBERSCOPE. In case of rug-pulling, honeypot or scam acts SYBERSCOPE will reveal their identities.
